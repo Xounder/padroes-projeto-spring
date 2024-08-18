@@ -6,7 +6,7 @@ A API REST that expands the database of a Film Distributor that only had the nam
 
 ### PT-BR
 
-Uma API REST que faz a expansão da database de uma Distribuidora de Filmes que só possuia o nome do filme, transportando para este banco mais conteúdos a partir do consumo da APi do [OMDb](https://www.omdbapi.com/) para puxar esses dados e armazená-los no banco. Podendo também, remover, adicionar e mostrar os filmes inseridos no banco.
+Uma API REST que faz a expansão da database de uma Distribuidora de Filmes que só possuia o nome do filme, transportando para este banco mais conteúdos a partir do consumo da API do [OMDb](https://www.omdbapi.com/) para puxar esses dados e armazená-los no banco. Podendo também, remover, adicionar e mostrar os filmes inseridos no banco.
 
 ## Diagrama das classes
 
