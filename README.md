@@ -44,7 +44,7 @@ classDiagram
     - Value: String
   }
 
-  Film --> Rating
+  Film "1" *-- "N" Rating
 ```
 
 >[!NOTE] 
